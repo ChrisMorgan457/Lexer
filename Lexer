@@ -1,4 +1,3 @@
-# Lexer
 def tokenize(string): #method tokenize
 lis=[] #empty list to return
 for i in range(0,len(string)): #for every char in the string
